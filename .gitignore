@@ -7,3 +7,4 @@ scenario/InTAS.simulation.summary.xml
 scenario/InTAS.simulation.tripinfo.xml
 scenario/sumo-0.log
 scenario/results/*
+scenario/cellsites/.~lock.*
