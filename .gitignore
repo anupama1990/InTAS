@@ -1,0 +1,10 @@
+scenario/.qtenvrc
+scenario/gate.xml
+scenario/InTAS_Detectors_Output.xml
+scenario/InTAS.simulation.log
+scenario/InTAS.simulation.statistic.xml
+scenario/InTAS.simulation.summary.xml
+scenario/InTAS.simulation.tripinfo.xml
+scenario/sumo-0.log
+scenario/results/*
+scenario/cellsites/.~lock.*
